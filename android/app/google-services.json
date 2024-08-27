@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811951492756",
+    "project_id": "spotify-d850a",
+    "storage_bucket": "spotify-d850a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811951492756:android:2ab4305aa61a9a3200ee81",
+        "android_client_info": {
+          "package_name": "com.example.spotify_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5TvsD-WoGWd_c2UoVtqixix6VHWBG-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
